@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Selenium-000000?style=for-the-badge&logo=Selenium&logoColor=43B02A"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=NumPy&logoColor=013243"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/PyPI-000000?style=for-the-badge&logo=PyPI&logoColor=3775A9"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/PyPI-000000?style=for-the-badge&logo=PyPI&logoColor=3775A9"/></a>
 <br><br>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Qt-000000?style=for-the-badge&logo=Qt&logoColor=41CD52"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=ffffff"/></a>
