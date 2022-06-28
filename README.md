@@ -14,14 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=006d32"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=006d32"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=006d32"/></a>
 
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=006d32"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=A8B9CC"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=Go&logoColor=00ADD8"/></a>
 <br>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=E34F26"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=1572B6"/></a>
+<br>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=F80000"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=Microsoft SQL Server&logoColor=CC2927"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=4479A1"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=SQLite&logoColor=003B57"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=MariaDB&logoColor=003545"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=MongoDB&logoColor=47A248"/></a>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=F80000"/></a>
