@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=006d32"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=006d32"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=006d32"/></a>
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=MySQL&logoColor=4479A1"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=SQLite&logoColor=003B57"/></a>
