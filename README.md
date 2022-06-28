@@ -1,4 +1,4 @@
-<h3 align = "center"> Tech Stack </h3>
+<h3 align = "center">🌿 Tech Stack 🌿</h3>
 <h5 align = "center">Techs used even once</h5>
 <p align = "center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=006d32"/></a>
@@ -38,6 +38,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Android Studio-000000?style=for-the-badge&logo=Android Studio&logoColor=3DDC84"/></a>
   <br><br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=#00979D"/></a>
- </p>
 <!--44A833-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=import023&show_icons=true&theme=gotham)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=import023&show_icons=true&theme=gotham)
+</p>
