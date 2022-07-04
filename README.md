@@ -37,6 +37,9 @@
   <br><br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Android Studio-000000?style=for-the-badge&logo=Android Studio&logoColor=3DDC84"/></a>
   <br><br>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=#00979D"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=00979D"/></a>
+  <br><br>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-000000?style=for-the-badge&logo=VirtualBox&logoColor=183A61"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=Ubuntu&logoColor=E95420"/></a>
 
 </p>
