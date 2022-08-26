@@ -29,7 +29,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E"/></a>
   <br><br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=F80000"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=Microsoft SQL Server&logoColor=CC2927"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/MSSQL-000000?style=for-the-badge&logo=Microsoft SQL Server&logoColor=CC2927"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=MySQL&logoColor=4479A1"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=SQLite&logoColor=003B57"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=MariaDB&logoColor=003545"/></a>
